@@ -1,0 +1,28 @@
+
+        .sidebar-sticky {
+            padding-top: 20px;
+            border-right: 1px solid #ddd;
+        }
+
+        .nav-link {
+            cursor: pointer;
+        }
+
+        .dashboard-content {
+            padding: 20px;
+            background-color: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+        .recruiter-info {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .recruiter-img {
+            border-radius: 50%;
+            width: 120px;
+            height: 120px;
+            margin-bottom: 10px;
+        }
